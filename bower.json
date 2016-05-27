@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "description": "Sails simple application that implements redis as database",
+  "main": "app.js",
+  "authors": [
+    "root"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dyammarcano/sails-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "Materialize": "materialize#^0.97.6",
+    "modernizr-min": "^3.2.0",
+    "react": "^15.1.0",
+    "angular": "^1.5.5",
+    "normalize-css": "^4.1.1"
+  }
+}
